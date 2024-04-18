@@ -7,3 +7,8 @@
 .gradient-background {
   background-color: linear-gradient(to right, #121212 88%, #121212 92%, #010101 0%);
 }
+
+.underline-one {
+  text-decoration: underline;
+  text-decoration-color: rgb(198, 200, 197);
+}
