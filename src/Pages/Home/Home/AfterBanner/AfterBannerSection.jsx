@@ -7,7 +7,7 @@ import img4 from '../../../../assets/mdcn.png'
 
 const AfterBannerSection = () => {
     return (
-        <div className="flex justify-evenly items-center w-full">
+        <div className="lg:flex justify-evenly items-center w-full">
             <AfterBanner img={img1} heading={"convenient online & Inclinic consultations"}></AfterBanner>
             <AfterBanner img={img2} heading={"Safe and effective treatment"}></AfterBanner>
             <AfterBanner img={img3} heading={"Experienced Ayurvedic Practitioners"}></AfterBanner>
