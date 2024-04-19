@@ -4,7 +4,7 @@ import ApproachCard from "./ApproachCard";
 
 const AyurvedicApproach = () => {
     return (
-        <div>
+        <div className="my-5 h-[420px]">
             <SectionTitle heading={"Our ayurvedic approach"} subtitle={"At Amrutam we follow a unique and personalized approach to healing. Our expert practitioners begin each treatment process by conducting a thorough analysis of the patient’s body type, medical history, and current health conditions."}></SectionTitle>
 
             <div className="flex justify-center items-center gap-3">
