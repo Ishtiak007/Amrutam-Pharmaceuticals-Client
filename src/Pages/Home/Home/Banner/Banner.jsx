@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const Banner = () => {
     return (
         <>
-            <div className="hero relative overflow-hidden  bg-no-repeat text-center bg-[url('https://i.ibb.co/9cfZJqM/tr-ng-th-m-m-ana-anabeautyacademy-zv-3n-C3e59-E-unsplash.jpg')] h-[400px] lg:h-[700px] bg-cover">
+            <div className="hero relative overflow-hidden  bg-no-repeat text-center bg-[url('https://i.ibb.co/gTysBcg/59afa656e21f9a1b7496b9a959580857.png')] h-[400px] lg:h-[700px] bg-cover">
                 <div className="flex justify-start items-center h-full w-full text-center bg-gradient-to-r from-[#000000c7] to-[#eceee81b] absolute bottom-0 left-0 right-0 top-0  overflow-hidden bg-fixed">
                     <div className="max-w-2xl ml-20 text-left">
                         <h1 className='text-[#FFF7E2] text-2xl'>Namaste, Welcome to Amrutam </h1>

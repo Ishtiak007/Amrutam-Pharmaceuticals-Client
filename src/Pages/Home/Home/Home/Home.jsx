@@ -1,5 +1,6 @@
 
 import AfterBannerSection from "../AfterBanner/AfterBannerSection";
+import AyurvedicApproach from "../AyurvedicApproach/AyurvedicApproach";
 import Banner from "../Banner/Banner";
 import BookConsulation from "../BookConsulation/BookConsulation";
 import ConsultationsSec from "../ConsultationsSec/ConsultationsSec";
@@ -14,6 +15,7 @@ const Home = () => {
             <FeaturedSection></FeaturedSection>
             <ConsultationsSec></ConsultationsSec>
             <BookConsulation></BookConsulation>
+            <AyurvedicApproach></AyurvedicApproach>
             <HomeAppSec></HomeAppSec>
         </div>
     );
