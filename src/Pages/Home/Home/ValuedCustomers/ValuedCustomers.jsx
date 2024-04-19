@@ -7,7 +7,7 @@ import { Pagination } from "swiper/modules";
 
 const ValuedCustomers = () => {
     return (
-        <div className="h-[550px] w-full bg-gradient-to-r from-[#FFF7E2] to-[#FFFAEE] p-4">
+        <div className="lg:h-[550px] w-full bg-gradient-to-r from-[#FFF7E2] to-[#FFFAEE] p-4">
             <SectionTitle heading={'STORIES FROM OUR VALUED CUSTOMERS!'}></SectionTitle>
             <div className="">
                 <Swiper
@@ -36,7 +36,7 @@ const ValuedCustomers = () => {
                 >
 
                     <SwiperSlide>
-                        <div className="w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
+                        <div className="lg:w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
                             <div>
                                 <div className="w-full h-[50px] bg-[#ECE7FF] rounded-t-xl flex items-center">
                                     <h1 className=" ml-5 text-[#000000] text-[18px] font-semibold">Consulted for Skin</h1>
@@ -60,7 +60,7 @@ const ValuedCustomers = () => {
                                 <div className="px-4">
                                     <div className="rating">
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" checked />
+                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
@@ -76,7 +76,7 @@ const ValuedCustomers = () => {
 
 
                     <SwiperSlide>
-                        <div className="w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
+                        <div className="lg:w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
                             <div>
                                 <div className="w-full h-[50px] bg-[#ECFEE7] rounded-t-xl flex items-center">
                                     <h1 className=" ml-5 text-[#000000] text-[18px] font-semibold">Consulted for hair</h1>
@@ -100,7 +100,7 @@ const ValuedCustomers = () => {
                                 <div className="px-4">
                                     <div className="rating">
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" checked />
+                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
@@ -115,7 +115,7 @@ const ValuedCustomers = () => {
                     </SwiperSlide>
 
                     <SwiperSlide>
-                        <div className="w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
+                        <div className="lg:w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
                             <div>
                                 <div className="w-full h-[50px] bg-[#ECE7FF] rounded-t-xl flex items-center">
                                     <h1 className=" ml-5 text-[#000000] text-[18px] font-semibold">Consulted for Skin</h1>
@@ -139,7 +139,7 @@ const ValuedCustomers = () => {
                                 <div className="px-4">
                                     <div className="rating">
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" checked />
+                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
@@ -154,7 +154,7 @@ const ValuedCustomers = () => {
                     </SwiperSlide>
 
                     <SwiperSlide>
-                        <div className="w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
+                        <div className="lg:w-[350px] bg-base-100 shadow-xl mt-6 rounded-xl">
                             <div>
                                 <div className="w-full h-[50px] bg-[#ECFEE7] rounded-t-xl flex items-center">
                                     <h1 className=" ml-5 text-[#000000] text-[18px] font-semibold">Consulted for hair</h1>
@@ -178,7 +178,7 @@ const ValuedCustomers = () => {
                                 <div className="px-4">
                                     <div className="rating">
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
-                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" checked />
+                                        <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
                                         <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />

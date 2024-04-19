@@ -4,7 +4,7 @@ import product from '../../../../assets/product.png'
 
 const ConsulationBottom = () => {
     return (
-        <div className="flex justify-center gap-3 mt-3">
+        <div className="lg:flex justify-center gap-3 mt-3 space-y-3">
             <div>
                 <div className="bg-[#FFFFFF] rounded-[20px] w-[285px] h-[200px] p-4 flex justify-center items-center border-0 border-t-[5px] border-[#3A643B]">
                     <div className="text-center">

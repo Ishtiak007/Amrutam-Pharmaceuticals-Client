@@ -3,7 +3,7 @@ import oil from '../../../../assets/oil.jpg'
 
 const ConsulationTop = () => {
     return (
-        <div className="flex justify-center gap-3">
+        <div className="lg:flex justify-center gap-3 space-y-3">
             <div className="bg-[#FFFFFF] rounded-[20px] lg:w-[500px] h-[300px] p-4 flex justify-center items-center border-0 border-t-[5px] border-[#3A643B]">
                 <div className="text-center">
                     <h1 className="text-[40px] font-medium text-[#3A643B]">स्वस्थस्य स्वास्थ्य रक्षणं, आतुरस्य विकार प्रशमनं</h1>

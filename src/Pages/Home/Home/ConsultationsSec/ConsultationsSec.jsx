@@ -6,7 +6,7 @@ import ConsulationTop from "./ConsulationTop";
 
 const ConsultationsSec = () => {
     return (
-        <div className="h-screen w-full bg-gradient-to-r from-[#FFF7E2] to-[#FFFAEE] p-4">
+        <div className="lg:h-screen w-full bg-gradient-to-r from-[#FFF7E2] to-[#FFFAEE] p-4">
             <SectionTitle heading={'What sets Ayurvedic consultations apart?'}></SectionTitle>
             <ConsulationTop></ConsulationTop>
             <ConsulationBottom></ConsulationBottom>
